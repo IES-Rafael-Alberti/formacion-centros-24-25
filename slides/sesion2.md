@@ -60,6 +60,6 @@ Mínimo de 30 horas, máximo de 80 <!-- .element: class="fragment" -->
 
 Próximamente tabla de cómputo disponible <!-- .element: class="fragment" -->
 ---
-<!-- .slide: data-background-video="../assets/pexels-pavel-danilyuk-7333916-(1080p).mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
+<!-- .slide: data-background-video="../assets/5359629-hd_1920_1080_30fps.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
 
 ## ¿Dudas?
