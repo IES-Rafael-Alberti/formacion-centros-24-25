@@ -47,7 +47,7 @@ Sesión 4 (Buenas prácticas competencias clave e inclusión): Martes 11 febrero
 
 Sesión 5 (Erasmus+): Lunes 17 marzo de 15:30 a 17:30 <!-- .element: class="fragment" -->
 
-Sesión 6 (Conclusiones grupos de trabajo): Martes 29 abril de 16:30 a 18:30
+Sesión 6 (Conclusiones grupos de trabajo): Martes 29 abril de 16:30 a 18:30 <!-- .element: class="fragment" -->
 ---
 
 ## Requisitos de certificación
