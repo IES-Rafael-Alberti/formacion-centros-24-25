@@ -1,4 +1,4 @@
-<h2 class="r-fit-text" style="text-align: center"> VISIÓN COMPARTIDA, COMPETENCIAS CLAVE E INCLUSIÓN EDUCATIVA EN EL IES RAFAEL ALBERTI </h2>
+<h2 class="r-fit-text" style="text-align: center"> VISIÓN COMPARTIDA, COMPETENCIAS CLAVE E INCLUSIÓN EDUCATIVA</h2>
 
 <img class="r-stretch" style="text-align: center" src="../assets/portada-fc-24-25.png">
 ---
