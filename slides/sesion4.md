@@ -13,13 +13,31 @@
 <img class="r-stretch" style="text-align: center" src="../assets/sesion4.png">
 
 ---
-
 ## DUA y Evaluación
 
 <img class="r-stretch" style="text-align: center" src="../assets/dua-eval.png">
 
 ---
+## Herramientas de accesibilidad
 
+<img class="r-stretch" style="text-align: center" src="../assets/accesibilidad.png">
+
+<small>https://www.microsoft.com/es-es/education/learning-tools/accessibility-tools</small>
+
+
+## OpenDyslexic
+
+<img class="r-stretch" style="text-align: center" src="../assets/opendyslexic.png">
+
+<small>https://opendyslexic.org</small>
+---
+## El plan lector
+
+<img class="r-stretch" style="text-align: center" src="../assets/planlectorpng">
+
+Note:
+
+Perplexity + Lienzo ChatGPT: Creación de lecturas y ejercicios de comprensión lectora
 ---
 
 ## Tareas
