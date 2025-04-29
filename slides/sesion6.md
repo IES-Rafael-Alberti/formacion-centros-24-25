@@ -37,6 +37,8 @@ Opción 2: Tarea más sencilla para certificar aprovechando todas las sesiones <
 ## Plazo de entrega de tareas
 
 16 de mayo
+
+¡Recuerda hacer la encuesta en Séneca!
 ---
 <!-- .slide: data-background-video="../assets/5359629-hd_1920_1080_30fps.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
 
